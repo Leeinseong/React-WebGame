@@ -5,6 +5,10 @@
 /3.숫자야구(memo, callback)/node_modules
 /4.반응속도체크/node_modules
 /5.가위바위보/node_modules
+/6.로또추첨기/node_modules
+/7.틱택토/node_modules
+/8.지뢰찾기/node_modules
+/9.ReactRouter/node_modules
 
 /.pnp
 .pnp.js
